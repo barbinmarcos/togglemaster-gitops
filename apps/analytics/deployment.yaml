@@ -20,7 +20,7 @@ spec:
       containers:
       - name: analytics
 
-        image: 008266478986.dkr.ecr.us-east-1.amazonaws.com/toggle-master-repo-4/togglemaster-analytics:latest
+        image: 008266478986.dkr.ecr.us-east-1.amazonaws.com/toggle-master-repo-4:latest
 
         ports:
         - containerPort: 8084
