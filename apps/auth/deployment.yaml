@@ -20,7 +20,7 @@ spec:
       containers:
       - name: auth
 
-        image: 008266478986.dkr.ecr.us-east-1.amazonaws.com/toggle-master-repo-0/togglemaster-analytics:latest
+        image: 008266478986.dkr.ecr.us-east-1.amazonaws.com/toggle-master-repo-0:latest
 
         ports:
           - containerPort: 8080
