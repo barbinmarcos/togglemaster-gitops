@@ -20,7 +20,7 @@ spec:
       containers:
       - name: evaluation
 
-        image: 008266478986.dkr.ecr.us-east-1.amazonaws.com/toggle-master-repo-3/togglemaster-analytics:latest
+        image: 008266478986.dkr.ecr.us-east-1.amazonaws.com/toggle-master-repo-3:latest
 
         ports:
         - containerPort: 8083
